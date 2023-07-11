@@ -1,0 +1,55 @@
+body {
+  background: pink;
+  color: #fff;
+}
+/* ABGABE BEGIN */
+.navbar
+{
+  
+/* Rand unten: Purpur 3 Pixel durchgezogen */
+/*??*/
+  
+/* Opacity .8 */
+/*??*/
+}
+.bg-dark
+{
+  
+/* Hintergrundfarbe Purpur */
+/*??*/
+}
+.navbar-dark .navbar-nav .nav-link {
+  
+/* Weiss mit Opacity 1.0 */
+/*??*/
+}
+.bg-primary
+{
+  
+/* Hintergrundfarbe Purpur */
+/*??*/
+}
+/* ABGABE ENDE */
+#home-section {
+  background: url("../img/home.jpg") no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 700px; }
+#home-section .dark-overlay {
+  background-color: rgba(0, 0, 0, 0.7);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: 700px; }
+#home-section .home-inner {
+  padding-top: 150px; }
+#home-section .card-form {
+  opacity: 0.8; }
+#home-section .fa {
+  color: #008ed6;
+  background: #fff;
+  padding: 4px;
+  border-radius: 5px;
+  font-size: 30px;
+}
